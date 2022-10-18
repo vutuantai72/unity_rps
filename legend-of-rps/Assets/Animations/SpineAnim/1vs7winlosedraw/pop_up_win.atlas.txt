@@ -1,0 +1,93 @@
+pop_up_win.png
+size:5490,3563
+filter:Linear,Linear
+pma:true
+AWESOME!! YOU ARE THE 1ST RUNNER UP WINNER!
+bounds:4562,156,473,147
+offsets:1,1,475,149
+rotate:90
+Asset 1
+bounds:1966,1543,1241,843
+Asset 2
+bounds:1763,289,165,128
+rotate:90
+Asset 3
+bounds:1241,382,77,72
+Asset 4
+bounds:1241,456,1143,668
+rotate:90
+Asset 5
+bounds:4641,1691,847,847
+Rectangle 218
+bounds:3183,2811,750,1624
+offsets:1,1,752,1626
+rotate:90
+YOU ARE THE WINNER !!!
+bounds:804,2,562,35
+offsets:1,1,564,37
+ava
+bounds:3790,631,889,887
+offsets:3,0,892,888
+bglight
+bounds:2,1601,1962,1960
+offsets:1,1,1964,1962
+blinky
+bounds:4845,2540,444,570
+offsets:1,1,446,572
+rotate:90
+blinky1
+bounds:2,34,800,325
+offsets:1,1,802,327
+board
+bounds:4681,918,666,771
+offsets:1,1,668,773
+bubble1
+bounds:3771,13,789,616
+offsets:1,1,791,618
+bubble2
+bounds:4809,2986,625,575
+offsets:1,1,627,577
+choker
+bounds:1359,48,310,406
+offsets:1,1,312,408
+draw
+bounds:3209,1520,1430,477
+offsets:0,35,1448,512
+focusline
+bounds:804,39,553,320
+offsets:1,1,555,322
+goldenmedal
+bounds:4711,463,162,178
+offsets:1,1,164,180
+lightning
+bounds:1911,76,829,506
+offsets:1,1,831,508
+looose
+bounds:1966,2388,1215,1173
+looose1
+bounds:3183,2552,1660,257
+looose2
+bounds:1911,584,898,957
+looose3
+bounds:2811,675,977,843
+lose
+bounds:3209,1999,1370,551
+offsets:34,28,1404,579
+lose pantone
+bounds:2,361,1237,1238
+offsets:3,1,1273,1239
+sad
+bounds:5349,1365,119,324
+offsets:1,1,121,326
+sad2
+bounds:1671,161,90,293
+offsets:1,1,92,295
+silvermedal
+bounds:4711,288,158,173
+offsets:1,1,160,175
+win
+bounds:4681,643,699,273
+offsets:1,1,701,275
+winbgpopup
+bounds:2811,46,958,627
+offsets:1,1,960,629

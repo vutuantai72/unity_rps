@@ -1,0 +1,61 @@
+frame matching.png
+size:5316,1229
+filter:Linear,Linear
+pma:true
+Frame
+bounds:1179,35,640,279
+offsets:1,2,643,282
+Frame copy
+bounds:2,2,645,269
+offsets:2,1,648,271
+Group 37579
+bounds:1506,477,750,1624
+offsets:1,1,752,1626
+rotate:90
+bg 1
+bounds:754,316,750,911
+offsets:1,1,752,913
+bg 2
+bounds:2,273,750,954
+offsets:1,1,752,956
+finding
+bounds:4310,19,498,341
+offsets:0,34,507,381
+found
+bounds:3322,96,505,379
+offsets:1,1,507,381
+lightning
+bounds:649,26,528,245
+offsets:1,1,530,247
+line focus
+bounds:3132,477,750,1624
+offsets:1,1,752,1626
+rotate:90
+star blue
+bounds:2590,54,421,393
+offsets:1,1,423,395
+rotate:90
+star red
+bounds:3829,101,479,374
+offsets:1,1,481,376
+star white
+bounds:4758,985,556,242
+offsets:1,1,558,244
+star yellow
+bounds:4758,362,505,272
+offsets:1,1,507,274
+vs
+bounds:4810,138,216,222
+offsets:1,1,218,224
+vs bg1
+bounds:2985,92,335,383
+offsets:1,1,337,385
+vs bg2
+bounds:2243,48,345,427
+offsets:1,1,347,429
+vs bg3
+bounds:1821,26,420,449
+offsets:1,1,422,451
+vs bg4
+bounds:4758,636,519,347
+offsets:1,1,521,349

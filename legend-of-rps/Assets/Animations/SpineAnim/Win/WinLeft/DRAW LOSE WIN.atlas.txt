@@ -1,0 +1,20 @@
+DRAW LOSE WIN.png
+size:821,409
+filter:Linear,Linear
+pma:true
+Layer 2
+bounds:601,188,218,219
+Layer 3 copy 2
+bounds:613,2,184,184
+Layer 3 copy 3
+bounds:329,11,163,165
+rotate:90
+win
+bounds:496,56,118,115
+offsets:2,3,124,122
+rotate:90
+win big
+bounds:329,176,270,231
+win corner
+bounds:2,101,325,306
+offsets:5,8,337,319

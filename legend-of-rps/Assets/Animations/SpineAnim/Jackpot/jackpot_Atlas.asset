@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: jackpot_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: 9072b73a35a047d4e8947af6df07b9cd, type: 3}
+  materials:
+  - {fileID: 2100000, guid: 39d9d8f3a3323664bb99f59e96d1b459, type: 2}
+  - {fileID: 2100000, guid: 24be5e7d71da8444a901fca0e417dcd7, type: 2}
+  - {fileID: 2100000, guid: 0fbd2a11b04162142994c6ae986521a9, type: 2}
+  - {fileID: 2100000, guid: 05df80331f69c9d46abe3aff1289d42e, type: 2}
+  - {fileID: 2100000, guid: 0c3605156edaecf4b8d3a090ac5e59c1, type: 2}
+  - {fileID: 2100000, guid: da19a35f2fdf03d4a889dd79bb4bd3f2, type: 2}
+  - {fileID: 2100000, guid: ec2098235f94a85488f91ed3b069e3b5, type: 2}
+  - {fileID: 2100000, guid: cb395b5cb47cbe848b13c1a96fda0276, type: 2}
+  - {fileID: 2100000, guid: 440f6d70a2024d94cb9f9963da711813, type: 2}

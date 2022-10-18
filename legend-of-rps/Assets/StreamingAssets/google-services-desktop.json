@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "685431618383",
+    "project_id": "jackpot-cf8ad",
+    "storage_bucket": "jackpot-cf8ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685431618383:android:2d0588882b4b72017ce33a",
+        "android_client_info": {
+          "package_name": "com.playground.legendofrps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685431618383-g6549ri54ougnvousvdkh1r6bfead859.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfrzrEBv6uqobtaW3LlHZ1Z2MR7kEA5B8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685431618383-g6549ri54ougnvousvdkh1r6bfead859.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "685431618383-mr3fjq4dlhmdh03sna2dgjf2bqe64bbq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.playground.legendofrps"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

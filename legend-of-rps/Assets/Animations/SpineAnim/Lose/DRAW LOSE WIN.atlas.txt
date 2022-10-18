@@ -1,0 +1,12 @@
+DRAW LOSE WIN.png
+size:603,376
+filter:Linear,Linear
+pma:true
+lose
+bounds:346,2,130,122
+offsets:1,1,132,124
+lose corner
+bounds:2,29,342,345
+offsets:6,5,353,357
+lose glow
+bounds:346,126,255,248

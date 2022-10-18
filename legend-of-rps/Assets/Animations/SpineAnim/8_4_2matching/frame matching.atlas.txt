@@ -1,0 +1,251 @@
+frame matching.png
+size:5427,4373
+filter:Linear,Linear
+pma:true
+1
+bounds:4612,3700,376,813
+offsets:1,1,378,815
+rotate:90
+2
+bounds:425,3432,376,813
+offsets:1,1,378,815
+rotate:90
+3
+bounds:1240,3408,376,813
+offsets:1,1,378,815
+rotate:90
+4
+bounds:2055,3381,376,813
+offsets:1,1,378,815
+rotate:90
+Frame
+bounds:4168,4092,640,279
+offsets:1,2,643,282
+Frame copy
+bounds:3014,4102,645,269
+offsets:2,1,648,271
+Frame1vs7
+bounds:3862,2568,752,1058
+offsets:1,1,754,1060
+rotate:90
+Group 37579
+bounds:2,2278,750,1624
+offsets:1,1,752,1626
+rotate:90
+Layer 1
+bounds:3319,3333,376,813
+offsets:1,1,378,815
+rotate:90
+Layer 10
+bounds:1628,2178,752,1064
+offsets:1,1,754,1066
+rotate:90
+Layer 2
+bounds:4134,3322,376,813
+offsets:1,1,378,815
+rotate:90
+Layer 3
+bounds:2,3054,376,813
+offsets:1,1,378,815
+rotate:90
+Layer 4
+bounds:817,3030,376,813
+offsets:1,1,378,815
+rotate:90
+Layer 9
+bounds:2694,2149,752,1058
+offsets:1,1,754,1060
+rotate:90
+final
+bounds:1068,336,1811,1814
+offsets:1,1,1813,1816
+rotate:90
+finding
+bounds:2603,3759,498,341
+offsets:0,34,507,381
+fire
+bounds:2669,4118,253,343
+rotate:90
+fireee00
+bounds:2,4370,1,1
+fireee01
+bounds:2,4370,1,1
+fireee22
+bounds:2,4370,1,1
+fireee23
+bounds:2,4370,1,1
+fireee24
+bounds:2,4370,1,1
+fireee02
+bounds:5,4208,163,246
+offsets:259,634,750,1624
+rotate:90
+fireee03
+bounds:5,4208,163,246
+offsets:259,634,750,1624
+rotate:90
+fireee04
+bounds:253,4166,205,328
+offsets:248,657,750,1624
+rotate:90
+fireee05
+bounds:1895,4123,248,385
+offsets:246,650,750,1624
+rotate:90
+fireee06
+bounds:2282,4123,248,385
+offsets:246,650,750,1624
+rotate:90
+fireee07
+bounds:2,3856,308,441
+offsets:222,648,750,1624
+rotate:90
+fireee08
+bounds:2,3856,308,441
+offsets:222,648,750,1624
+rotate:90
+fireee09
+bounds:1348,3799,325,439
+offsets:229,646,750,1624
+rotate:90
+fireee10
+bounds:2976,2903,428,441
+offsets:145,643,750,1624
+rotate:90
+fireee11
+bounds:3419,2903,428,441
+offsets:145,643,750,1624
+rotate:90
+fireee12
+bounds:1632,2977,444,402
+offsets:136,653,750,1624
+fireee13
+bounds:1632,2977,444,402
+offsets:136,653,750,1624
+fireee14
+bounds:2078,2977,445,402
+offsets:129,653,750,1624
+fireee15
+bounds:2870,3354,447,397
+offsets:131,660,750,1624
+fireee16
+bounds:4949,3301,447,397
+offsets:131,660,750,1624
+fireee17
+bounds:897,3810,449,317
+offsets:127,662,750,1624
+fireee18
+bounds:897,3810,449,317
+offsets:127,662,750,1624
+fireee19
+bounds:445,3811,450,316
+offsets:129,660,750,1624
+fireee20
+bounds:4810,4078,441,293
+offsets:132,679,750,1624
+fireee21
+bounds:4810,4078,441,293
+offsets:132,679,750,1624
+found
+bounds:4105,3711,505,379
+offsets:1,1,507,381
+frame1vs8
+bounds:2,1524,752,1064
+offsets:1,1,754,1066
+rotate:90
+layer1_light copy 2
+bounds:2884,2,1812,1813
+offsets:1,1,1814,1815
+rotate:90
+lightning
+bounds:1365,4126,528,245
+offsets:1,1,530,247
+line focus
+bounds:3754,1816,750,1624
+offsets:1,1,752,1626
+rotate:90
+star blue
+bounds:2,3461,421,393
+offsets:1,1,423,395
+star red
+bounds:3624,3723,479,374
+offsets:1,1,481,376
+star white
+bounds:807,4129,556,242
+offsets:1,1,558,244
+star yellow
+bounds:3661,4099,505,272
+offsets:1,1,507,274
+vs
+bounds:583,4155,216,222
+offsets:1,1,218,224
+rotate:90
+vs bg1
+bounds:1789,3786,335,383
+offsets:1,1,337,385
+rotate:90
+vs bg2
+bounds:2174,3776,345,427
+offsets:1,1,347,429
+rotate:90
+vs bg3
+bounds:2525,2932,420,449
+offsets:1,1,422,451
+rotate:90
+vs bg4
+bounds:3103,3753,519,347
+offsets:1,1,521,349
+
+frame matching_2.png
+size:5449,3630
+filter:Linear,Linear
+pma:true
+layer1_light
+bounds:1817,1816,1812,1813
+offsets:1,1,1814,1815
+rotate:90
+layer1_light copy 3
+bounds:2,1816,1812,1813
+offsets:1,1,1814,1815
+rotate:90
+layer1_pantone
+bounds:1818,2,1812,1814
+offsets:1,1,1814,1816
+rotate:90
+layer1_pantone copy 2
+bounds:3632,1816,1812,1814
+offsets:1,1,1814,1816
+rotate:90
+layer1_pantone copy 3
+bounds:2,2,1812,1814
+offsets:1,1,1814,1816
+rotate:90
+layer2_light
+bounds:3634,2,1812,1813
+offsets:1,1,1814,1815
+rotate:90
+
+frame matching_3.png
+size:5448,3630
+filter:Linear,Linear
+pma:true
+layer2_pantone
+bounds:2,1816,1812,1814
+offsets:1,1,1814,1816
+rotate:90
+layer3_light
+bounds:1818,1816,1812,1813
+offsets:1,1,1814,1815
+rotate:90
+layer3_pantone
+bounds:2,2,1812,1814
+offsets:1,1,1814,1816
+rotate:90
+layer4_light
+bounds:3633,1816,1812,1813
+offsets:1,1,1814,1815
+rotate:90
+layer4_pantone
+bounds:1818,2,1812,1814
+offsets:1,1,1814,1816
+rotate:90
